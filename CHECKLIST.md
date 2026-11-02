@@ -6,7 +6,10 @@
   - [ ] 0.3 SO y archivos
   - [ ] 0.4 Terminal y herramientas
   - [ ] 0.5 Redes e internet
-  - [ ] 0.6 Seguridad e higiene digital
+  - [ ] 0.6 Cómo vamos a aprender
+  - [ ] 0.7 Vocabulario
+  - [ ] 0.8 Repaso final (8+ de 10)
+  - [ ] NOTAS.md con hallazgos y puntajes
 - [ ] 1. Introducción a la Programación
   - [ ] 1.1 Fundamentos y lógica
   - [ ] 1.2 Pensamiento algorítmico
