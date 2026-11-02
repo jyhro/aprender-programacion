@@ -1,0 +1,39 @@
+# Seguimiento
+
+- [ ] 0. Bases de la Computación
+  - [ ] 0.1 La computadora (hardware/software)
+  - [ ] 0.2 Datos y binario
+  - [ ] 0.3 SO y archivos
+  - [ ] 0.4 Terminal y herramientas
+  - [ ] 0.5 Redes e internet
+  - [ ] 0.6 Seguridad e higiene digital
+- [ ] 1. Introducción a la Programación
+  - [ ] 1.1 Fundamentos y lógica
+  - [ ] 1.2 Pensamiento algorítmico
+  - [ ] 1.3 Lenguajes
+  - [ ] 2.1 Variables y constantes
+  - [ ] 2.2 Tipos primitivos
+  - [ ] 2.3 Operadores
+  - [ ] 2.4 Entrada/salida
+  - [ ] 3.1 Condicionales
+  - [ ] 3.2 Bucles
+  - [ ] 4. Arreglos / matrices / cadenas
+  - [ ] 5. Funciones y scope
+  - [ ] 6. Paradigmas (POO visión general)
+- [ ] 2. Programación con Python
+  - [ ] 1. Setup y primer script
+  - [ ] 2. Datos, variables y operaciones
+  - [ ] 3.1 Condicionales
+  - [ ] 3.2 Bucles
+  - [ ] 4. Listas, tuplas, dicts, sets
+  - [ ] 5. Funciones
+  - [ ] 6. Errores y archivos
+  - [ ] 7. POO práctica
+  - [ ] 8. Proyecto final
+- [ ] Ejercicios
+  - [ ] 2.1 Presupuesto mensual
+  - [ ] 2.2 Conversor de divisas
+  - [ ] 3.1 Validador de acceso
+  - [ ] 3.2 Impuestos progresivos
+  - [ ] 3.3 Inventario con while
+  - [ ] 3.4 Reporte de ventas
