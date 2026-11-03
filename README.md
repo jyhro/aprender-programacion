@@ -12,7 +12,7 @@ graph LR
 | Módulo | Semanas | Carpeta | Salida que lo valida |
 | --- | --- | --- | --- |
 | 0 - Bases | 1 | `00-bases-computacion/` | Repaso final con 8 de 10 |
-| 1 - Lógica | 2 | Por crear | 3 algoritmos más 2 diagramas |
+| 1 - Lógica | 2 | `01-logica/` | 3 algoritmos más 2 diagramas |
 | 2 - Python y Git | 3 | Por crear | 6 ejercicios con commits limpios |
 | 3 - Datos y archivos | 3 | Por crear | Agenda en `JSON` que no se cae |
 | 4 - POO | 2 | Por crear | Proyecto integrador con `README` |

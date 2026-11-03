@@ -10,19 +10,14 @@
   - [ ] 0.7 Vocabulario
   - [ ] 0.8 Repaso final (8+ de 10)
   - [ ] NOTAS.md con hallazgos y puntajes
-- [ ] 1. Introducción a la Programación
-  - [ ] 1.1 Fundamentos y lógica
-  - [ ] 1.2 Pensamiento algorítmico
-  - [ ] 1.3 Lenguajes
-  - [ ] 2.1 Variables y constantes
-  - [ ] 2.2 Tipos primitivos
-  - [ ] 2.3 Operadores
-  - [ ] 2.4 Entrada/salida
-  - [ ] 3.1 Condicionales
-  - [ ] 3.2 Bucles
-  - [ ] 4. Arreglos / matrices / cadenas
-  - [ ] 5. Funciones y scope
-  - [ ] 6. Paradigmas (POO visión general)
+- [ ] 1. Lógica y algoritmos
+  - [ ] 1.1 Qué es un algoritmo
+  - [ ] 1.2 Español estructurado a mano
+  - [ ] 1.3 Diagramas de flujo
+  - [ ] 1.4 Pseudocódigo y PSeInt
+  - [ ] 1.5 Vocabulario
+  - [ ] 1.6 Repaso final (8+ de 10)
+  - [ ] NOTAS.md con hallazgos y puntajes
 - [ ] 2. Programación con Python
   - [ ] 1. Setup y primer script
   - [ ] 2. Datos, variables y operaciones

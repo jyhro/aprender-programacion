@@ -12,10 +12,10 @@
 
 ## Módulo 1 - Lógica y algoritmos
 
-- [ ] `01-logica/README.md` con recetas en español, diagramas y pseudocódigo
-- [ ] `01-logica/NOTAS.md` diario con plantilla y puntajes
-- [ ] Repaso final de 10 puntos con tabla de decisión y plan día 1/3/7
-- [ ] Marcar M1 como creado en `CHECKLIST.md`
+- [x] `01-logica/README.md` con español a mano, diagramas y pseudocódigo
+- [x] `01-logica/NOTAS.md` diario con plantilla y puntajes
+- [x] Repaso final de 10 puntos con tabla de decisión y plan día 1/3/7
+- [x] Marcar M1 como creado en `CHECKLIST.md`
 
 ## Módulo 2 - Python y Git
 
