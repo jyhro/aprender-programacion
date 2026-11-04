@@ -48,3 +48,10 @@ Llevas M0 y M1 listos. Empieza en [Módulo 0 - Bases de la Computación](./00-ba
 | Reporte de ventas | `for` con `range()` y acumuladores |
 
 Un script por ejercicio en `python/`, por ejemplo `python/ejercicio_2_1.py`.
+
+## Extras
+
+- [Mantén tu repo actualizado](./extra-actualizar-repo/README.md): trae lo último de GitHub con Git o la app Desktop antes de estudiar.
+
+---
+> Doc v1.3.0 · 2026-11-04 · Agrega extras y aclara método local.

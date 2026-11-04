@@ -524,3 +524,6 @@ Sin mirar el punto 0.7, define los 7 términos con un ejemplo cada uno. De 6 a 7
 ## Siguiente paso
 
 Pasa al Módulo 1 cuando tu puntaje sea de 8 o más, donde escribirás tu primera receta en forma de algoritmo.
+
+---
+> Doc v2.0.0 · 2026-11-04 · Migra a la norma de fricción con retos y casos borde.

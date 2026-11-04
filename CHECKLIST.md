@@ -37,3 +37,6 @@
   - [ ] 3.2 Impuestos progresivos
   - [ ] 3.3 Inventario con while
   - [ ] 3.4 Reporte de ventas
+
+---
+> Doc v1.1.0 · 2026-11-04 · Sincroniza con las secciones reales de M0 y M1.

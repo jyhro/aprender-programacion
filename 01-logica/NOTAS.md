@@ -120,3 +120,6 @@ Validación en voz alta (dónde me trabé):
 - Día 1 (fecha):
 - Día 3 (qué fallé):
 - Día 7 (repetido):
+
+---
+> Doc v1.1.0 · 2026-11-04 · Convierte el diario en laboratorio con retos y errores.

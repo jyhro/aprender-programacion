@@ -80,3 +80,6 @@ Tab y flecha arriba hacen:
 - Día 1 (fecha):
 - Día 3 (qué fallé):
 - Día 7 (repetido):
+
+---
+> Doc v1.1.0 · 2026-11-04 · Agrega tabla de errores y puntajes por sección.

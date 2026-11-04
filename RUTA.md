@@ -58,3 +58,6 @@ Si te trabas: vuelve al proyecto del M4 y recórtalo en vez de empezar de cero.
 - Nada de pasar de módulo sin el proyecto funcionando y el repaso en 8 o más.
 - Todo commit con mensaje claro: qué hiciste y por qué.
 - El estándar completo para crear módulos vive en `AGENTS.md` (archivo local, no versionado en este repo).
+
+---
+> Doc v1.1.0 · 2026-11-04 · Agrega estaciones de apoyo y hábitos por módulo.

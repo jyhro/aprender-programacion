@@ -405,3 +405,6 @@ Sin mirar el punto 1.5, define los 9 términos con un ejemplo cada uno. De 8 a 9
 ## Siguiente paso
 
 Pasa al Módulo 2 cuando tu puntaje sea de 8 o más, donde estos mismos pasos se escribirán en Python.
+
+---
+> Doc v2.0.0 · 2026-11-04 · Rediseño a norma de fricción con Mermaid y FAQ.

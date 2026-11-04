@@ -50,3 +50,6 @@
 - [ ] `05-portafolio/README.md` con los 3 mini-proyectos de prueba
 - [ ] Proyecto favorito publicado con buen `README`
 - [ ] Actualizar tabla de la ruta en `README.md` con carpetas reales
+
+---
+> Doc v1.1.0 · 2026-11-04 · Marca deuda de norma como resuelta.
