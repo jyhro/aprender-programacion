@@ -12,6 +12,8 @@ Todo el módulo usa 3 técnicas probadas para aprender. Son medibles: siempre sa
 
 Anota todo en [NOTAS.md](./NOTAS.md): tus intentos, tus errores, tus correcciones y tus pruebas. Sin notas no hay puntos.
 
+Tus puntajes son solo para ti, en tu diario local. Este repo es una guía, no un examen: nadie recoge tu progreso.
+
 > [!TIP]
 > Regla de avance: no pases al Módulo 2 hasta sacar 8 de 10 en el repaso final (punto 1.6). PSeInt es solo la calculadora que comprueba tus pasos: pensar ocurre a mano.
 

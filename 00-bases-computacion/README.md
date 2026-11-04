@@ -12,6 +12,8 @@ Todo el módulo usa 3 técnicas probadas para aprender. Son medibles: siempre sa
 
 Cada sección sigue el mismo orden: reto, teoría, casos borde, correcto contra incorrecto, trampa común, preguntas para pensar, resumen y medición de 3 puntos. Anota todo en [NOTAS.md](./NOTAS.md): intentos, errores y correcciones. Sin notas no hay puntos.
 
+Tus puntajes son solo para ti, en tu diario local. Este repo es una guía, no un examen: nadie recoge tu progreso.
+
 > [!TIP]
 > Regla de avance: no pases al Módulo 1 hasta sacar 8 de 10 en el repaso final (punto 0.9). Si sacas menos, el mismo 0.9 te dice qué repetir y cuándo.
 
