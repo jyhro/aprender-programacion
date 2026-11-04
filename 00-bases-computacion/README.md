@@ -71,7 +71,7 @@ Creer que abierto es lo mismo que guardado. Es el error silencioso más caro: ho
 
 ### Investiga
 
-Abre la información de tu compu (en macOS: menú manzana, Acerca de esta Mac; en Windows: Configuración, Sistema, Acerca de) y anota en `NOTAS.md`: modelo de CPU, GB de RAM, espacio libre en disco, sistema operativo y versión. Luego clasifica 3 programas que uses a diario: ¿cuáles son sistema operativo y cuáles son aplicaciones? Anota también en qué falló tu reto inicial, si falló.
+Abre la información de tu compu (en macOS: menú manzana, Acerca de esta Mac; en Windows: Configuración, Sistema, Acerca de) y anota en `NOTAS.md`: modelo de CPU, memoria (RAM), espacio libre en disco, sistema operativo y versión. (Las unidades como GB las verás en el punto 0.2.) Luego clasifica 3 programas que uses a diario: ¿cuáles son sistema operativo y cuáles son aplicaciones? Anota también en qué falló tu reto inicial, si falló.
 
 ### Para pensar
 
@@ -175,7 +175,7 @@ Documentos/
 
 ### Ruta absoluta y ruta relativa
 
-- **Absoluta:** la dirección completa desde la raíz, funciona desde cualquier lugar. Ejemplo: `/Users/tu-nombre/Documentos/fotos/playa.jpg`.
+- **Absoluta:** la dirección completa desde la raíz (la carpeta madre de todas), funciona desde cualquier lugar. Ejemplo: `/Users/tu-nombre/Documentos/fotos/playa.jpg`.
 - **Relativa:** la dirección corta desde donde estás parado. Si ya estás en `Documentos`, basta con `fotos/playa.jpg`.
 
 La terminal siempre está parada en alguna carpeta. Por eso el mismo archivo se nombra distinto según desde dónde lo pidas.
@@ -199,7 +199,7 @@ Creer que cambiar la extensión convierte el archivo. Solo le cambia la etiqueta
 
 ### Investiga
 
-Anota en `NOTAS.md` 3 rutas reales de tu compu (usa el explorador o `pwd` más `ls`). Marca cuál es absoluta y escribe la versión relativa de al menos una. Para una de ellas, anota su extensión y qué programa la abre. Compara tu dictado del reto con la ruta real: ¿qué te faltó?
+Anota en `NOTAS.md` 3 rutas reales de tu compu usando el explorador de archivos (el de la terminal con `pwd` y `ls` lo aprenderás en el punto 0.4). Marca cuál es absoluta y escribe la versión relativa de al menos una. Para una de ellas, anota su extensión y qué programa la abre. Compara tu dictado del reto con la ruta real: ¿qué te faltó?
 
 ### Para pensar
 
@@ -228,6 +228,7 @@ ls               # qué hay aquí
 cd python        # entrar a la carpeta python
 cd ..            # volver una carpeta atrás
 mkdir pruebas    # crear una carpeta
+mv viejo nuevo   # renombrar o mover algo
 python3 hola.py  # correr tu programa
 clear            # limpiar la pantalla
 ```
@@ -246,6 +247,18 @@ cd python
 echo "print('hola')" > hola.py
 python3 hola.py
 ```
+
+Dos símbolos nuevos: `>` guarda en un archivo lo que el comando habría mostrado en pantalla, y `~` significa tu carpeta personal (por eso `ls ~` lista tu casa).
+
+### Cómo se llama en tu equipo
+
+| Sistema | La terminal se llama | Cómo abrirla |
+| --- | --- | --- |
+| macOS | Terminal | `Cmd` más `Espacio`, escribe Terminal |
+| Windows | Terminal o PowerShell | Clic derecho en Inicio, Terminal |
+| GNU/Linux | Terminal | `Ctrl` más `Alt` más `T` |
+
+Dos avisos para Windows: usa PowerShell o Terminal, no el viejo Símbolo del sistema (`cmd`), porque `ls` y `pwd` solo funcionan en los primeros. Y el comando de Python suele ser `python` en vez de `python3`: comprueba con `python --version` y usa el que responda.
 
 ### Casos borde
 
@@ -476,7 +489,7 @@ Hazlo sin mirar el resto del módulo. Suma tus puntos al final. Todo queda anota
 1. Observa: el mensaje `hola` y una selfie de tu compu o celular.
 2. Pregunta: ¿cuál ocupa más bytes y dónde vive cada uno, en RAM o en disco?
 3. Escribe tu hipótesis antes de medir (1 punto por dejarla escrita).
-4. Mide: mira el tamaño de cada archivo con propiedades o `ls -l` y anota ambos tamaños más dónde vive cada uno (1 punto por anotación completa).
+4. Mide: mira el tamaño de cada archivo (clic derecho, Propiedades; o `ls -l` en la terminal, donde `-l` pide la lista detallada) y anota ambos tamaños más dónde vive cada uno (1 punto por anotación completa).
 5. Conclusión en una frase: el texto son poquitos bytes en disco y la foto son millones.
 
 ### Práctica 2 - La extensión y la ruta mandan (2 puntos)
@@ -486,7 +499,7 @@ Trabaja sobre una copia, nunca sobre el original.
 1. Observa: copia `hola.py` como `hola-copia.py` dentro de `python`.
 2. Pregunta: ¿qué pasa si le cambio la extensión a `.txt` y la pido con ruta relativa?
 3. Escribe tu hipótesis: qué cambiará al abrirla y cuál es su ruta absoluta (1 punto por dejarla escrita).
-4. Experimento: entra a la carpeta con `cd`, renombra la copia a `hola-copia.txt` e intenta abrirla.
+4. Experimento: entra a la carpeta con `cd`, renombra con `mv hola-copia.py hola-copia.txt` (`mv` significa mover o renombrar) e intenta abrirla.
 5. Anota qué cambió, qué siguió igual y la ruta absoluta (1 punto por anotación completa).
 
 ### Práctica 3 - Predice la terminal y la web (2 puntos)
@@ -526,4 +539,4 @@ Sin mirar el punto 0.7, define los 7 términos con un ejemplo cada uno. De 6 a 7
 Pasa al Módulo 1 cuando tu puntaje sea de 8 o más, donde escribirás tu primera receta en forma de algoritmo.
 
 ---
-> Doc v2.0.0 · 2026-11-04 · Migra a la norma de fricción con retos y casos borde.
+> Doc v2.2.0 · 2026-11-04 · Cero supuestos: mv, raíz, GB a su tiempo y comandos exactos.

@@ -219,7 +219,7 @@ Dibujar el camino feliz y olvidar los bordes. Recorre siempre cada rombo por los
 
 ### Investiga
 
-Dibuja tus 2 diagramas en `NOTAS.md` (a mano o en Mermaid): permiso para entrar con validación de rango, y suma del mercado hasta pasar de 1.000. Recorre cada uno con 2 casos distintos y anota qué sale en cada caso.
+Dibuja tus 2 diagramas en `NOTAS.md` (a mano, o en código Mermaid como los ejemplos: GitHub los dibuja solo): permiso para entrar con validación de rango, y suma del mercado hasta pasar de 1.000. Recorre cada uno con 2 casos distintos y anota qué sale en cada caso.
 
 ### Para pensar
 
@@ -253,6 +253,8 @@ Escribir "texto"     // mostrar en pantalla
 Leer dato            // pedir un dato
 total <- 0           // guardar un valor (acción)
 Si edad = 18 Entonces // comparar (pregunta)
+// Y significa que TODO debe cumplirse; O significa que basta con UNA parte
+Si nota < 0 O nota > 100 Entonces
   pasos de adentro
 SiNo
   otros pasos
@@ -283,7 +285,7 @@ SiNo
 FinSi
 ```
 
-Cómo comprobar en PSeInt: escríbelo, ejecútalo paso a paso y compara con tu prueba de escritorio a mano. Si difieren, primero sospecha del algoritmo, no de la herramienta. Prueba siempre con un dato normal y uno inválido (nota 150): el inválido debe activar tu validación, no romper el programa.
+Cómo comprobar en PSeInt: escríbelo y pulsa el botón Ejecutar (o ejecútalo paso a paso) y compara con tu prueba de escritorio a mano. Si difieren, primero sospecha del algoritmo, no de la herramienta. Prueba siempre con un dato normal y uno inválido (nota 150): el inválido debe activar tu validación, no romper el programa.
 
 ### Instalar PSeInt
 
@@ -407,4 +409,4 @@ Sin mirar el punto 1.5, define los 9 términos con un ejemplo cada uno. De 8 a 9
 Pasa al Módulo 2 cuando tu puntaje sea de 8 o más, donde estos mismos pasos se escribirán en Python.
 
 ---
-> Doc v2.0.0 · 2026-11-04 · Rediseño a norma de fricción con Mermaid y FAQ.
+> Doc v2.1.0 · 2026-11-04 · Explica O, Y, Mermaid y el botón Ejecutar.

@@ -29,7 +29,7 @@ Si te trabas: repasa 0.2 (tipos de datos) y 0.7 (vocabulario).
 
 Variables, tipos, `input`, condicionales, bucles y funciones. Git desde el día 1: cada ejercicio es un commit.
 Proyectos que validan: calculadora de presupuesto, conversor de divisas, validador de acceso, impuestos progresivos, inventario con `while` y reporte de ventas. Repo con historial limpio de commits.
-Hábito profesional: nombres `snake_case` y leer el error antes de cambiar código.
+Hábito profesional: nombres `snake_case` (palabras con guion_bajo, como `presupuesto_mensual`) y leer el error antes de cambiar código.
 Si te trabas: repasa 1.2 (español estructurado) y 1.4 (sintaxis y sangría).
 
 ### M3 - Datos y archivos (3 semanas)
@@ -60,4 +60,4 @@ Si te trabas: vuelve al proyecto del M4 y recórtalo en vez de empezar de cero.
 - El estándar completo para crear módulos vive en `AGENTS.md` (archivo local, no versionado en este repo).
 
 ---
-> Doc v1.1.0 · 2026-11-04 · Agrega estaciones de apoyo y hábitos por módulo.
+> Doc v1.1.1 · 2026-11-04 · Explica snake_case con ejemplo.
