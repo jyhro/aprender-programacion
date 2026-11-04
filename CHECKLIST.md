@@ -8,7 +8,8 @@
   - [ ] 0.5 Redes e internet
   - [ ] 0.6 Cómo vamos a aprender
   - [ ] 0.7 Vocabulario
-  - [ ] 0.8 Repaso final (8+ de 10)
+  - [ ] 0.8 Dudas comunes
+  - [ ] 0.9 Repaso final (8+ de 10)
   - [ ] NOTAS.md con hallazgos y puntajes
 - [ ] 1. Lógica y algoritmos
   - [ ] 1.1 Qué es un algoritmo
@@ -16,7 +17,8 @@
   - [ ] 1.3 Diagramas de flujo
   - [ ] 1.4 Pseudocódigo y PSeInt
   - [ ] 1.5 Vocabulario
-  - [ ] 1.6 Repaso final (8+ de 10)
+  - [ ] 1.6 Dudas comunes
+  - [ ] 1.7 Repaso final (8+ de 10)
   - [ ] NOTAS.md con hallazgos y puntajes
 - [ ] 2. Programación con Python
   - [ ] 1. Setup y primer script

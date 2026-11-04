@@ -5,10 +5,17 @@
 - [x] `00-bases-computacion/README.md` con 8 secciones medibles
 - [x] `00-bases-computacion/NOTAS.md` diario con plantilla y puntajes
 - [x] Repaso final del M0 de 10 puntos con tabla de decisión y plan día 1/3/7
-- [x] `CHECKLIST.md` sincronizado con el temario real
+- [x] `01-logica/README.md` rediseñado a la norma de fricción (retos, casos borde, Mermaid, FAQ)
+- [x] `01-logica/NOTAS.md` como laboratorio (errores, correcciones, pruebas)
+- [x] `CHECKLIST.md` sincronizado con las secciones reales de M0 y M1
 - [x] `RUTA.md` con el plan de 12 semanas
 - [x] `README.md` principal en modo showcase
 - [x] Repo con remoto y push al día
+
+## Deuda de norma (migrar al estándar de fricción)
+
+- [x] M0: reto rápido al abrir cada sección, casos borde y "Ojo con esto"
+- [x] M0: repaso y puntajes verificados contra la norma (0.9 y /3 por sección)
 
 ## Módulo 1 - Lógica y algoritmos
 

@@ -27,11 +27,11 @@ graph LR
 2. Construye el proyecto del día (80 min).
 3. Anota y marca tu avance (20 min).
 
-Cada módulo usa predicción escrita, recuerdo activo y repaso espaciado día 1/3/7. Las reglas completas viven en `AGENTS.md` (archivo local, no versionado).
+Cada módulo usa fricción antes que teoría, recuerdo activo y repaso espaciado día 1/3/7. El plan completo está en [RUTA.md](./RUTA.md).
 
 ## Módulo actual
 
-El Módulo 0 cubre la computadora como cocina (CPU, RAM, disco), binario y tamaños, archivos y rutas, terminal básica e internet en una frase. Empieza en [Módulo 0 - Bases de la Computación](./00-bases-computacion/README.md) y anota todo en su [diario](./00-bases-computacion/NOTAS.md).
+Llevas M0 y M1 listos. Empieza en [Módulo 0 - Bases de la Computación](./00-bases-computacion/README.md) y sigue con [Módulo 1 - Lógica y algoritmos](./01-logica/README.md). Cada uno trae su diario (`NOTAS.md`).
 
 > [!TIP]
 > Sigue tu avance en [CHECKLIST.md](./CHECKLIST.md). Marca solo lo que ya puedas explicar sin mirar.

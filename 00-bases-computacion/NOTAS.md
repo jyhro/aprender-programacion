@@ -45,17 +45,32 @@ Tab y flecha arriba hacen:
 4.
 5.
 
-## Puntajes por sección
+## Mis errores y correcciones
 
-- 0.1: /5
+| Dónde | Qué pensé | Qué falló | Corrección |
+| --- | --- | --- | --- |
+| | | | |
+
+## Puntajes por sección (3 cada una)
+
+- 0.1: /3
 - 0.2: /3
-- 0.3: /2
-- 0.4: /4
-- 0.5: /2
-- 0.6: /1
-- 0.7: /4
+- 0.3: /3
+- 0.4: /3
+- 0.5: /3
+- 0.6: /3
+- 0.7: /3
+- 0.8: /3
 
-## Repaso final (0.8)
+## Estaciones que usé (0.9)
+
+- Me trabé en: repasé:
+
+## Dudas que me quedaron (0.10)
+
+- Pregunta: respuesta que encontré:
+
+## Repaso final (0.12)
 
 - Práctica 1: /2
 - Práctica 2: /2
